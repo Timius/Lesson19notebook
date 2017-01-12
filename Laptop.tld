@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laptop>
+  <specifications>
+    <processor id="1">
+      <name>
+          Intel_Core
+      </name>
+      <type>
+          i7_4710HQ
+      </type>
+    </processor>
+    <operatingSystem id="1">
+       <name>
+           Windows
+       </name>
+       <type>
+           8.1
+       </type>
+    </operatingSystem>
+    <chipset>
+       <name>
+           Intel
+       </name>
+       <type>
+           HM86_Express_Chipset
+       </type>
+    </chipset>
+
+    </specifications>
+
+
+</laptop>
+
+
+<!--<root>-->
+    <!--<staffs>-->
+        <!--<staff id="1">-->
+            <!--<firstName>-->
+                <!--Вася-->
+            <!--</firstName>-->
+            <!--<lastName>-->
+                <!--Пупкин-->
+            <!--</lastName>-->
+            <!--<sallary isRegular="true">-->
+                <!--3000-->
+            <!--</sallary>-->
+        <!--</staff>-->
+        <!--<staff id="1">-->
+            <!--<firstName>-->
+                <!--Петя-->
+            <!--</firstName>-->
+            <!--<lastName>-->
+                <!--Пупкин-->
+            <!--</lastName>-->
+
+            <!--<sallary isRegular="true">-->
+                <!--3000-->
+            <!--</sallary>-->
+        <!--</staff>-->
+
+    <!--</staffs>-->
+    <!--<companies>-->
+
+    <!--</companies>-->
+<!--</root>-->
+
+<!--<taglib xmlns="http://java.sun.com/xml/ns/javaee"-->
+        <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+        <!--xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"-->
+        <!--version="2.1">-->
+
+    <!--<tlib-version>1.0</tlib-version>-->
+    <!--<short-name>myshortname</short-name>-->
+    <!--<uri>http://mycompany.com</uri>-->
+
+    <!--&lt;!&ndash; Invoke 'Generate' action to add tags or functions &ndash;&gt;-->
+
+<!--</taglib>-->
