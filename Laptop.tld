@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <laptop>
   <specifications>
-    <processor id="1">
+    <processor>
       <name>
           Intel_Core
       </name>
@@ -9,7 +9,7 @@
           i7_4710HQ
       </type>
     </processor>
-    <operatingSystem id="1">
+    <operatingSystem>
        <name>
            Windows
        </name>
